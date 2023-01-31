@@ -2,7 +2,7 @@
 
 It's an OSS organization focusing on GitHub Actions maintained by its members.
 
-Some actions are maintained outside **Actions-able**.
+Some actions are maintained outside **Actions-able** and will migrate when possible.
 
 - <https://github.com/rlespinasse/github-slug-action>
 - <https://github.com/rlespinasse/slugify-value>
