@@ -4,7 +4,7 @@ It's an OSS organization focusing on GitHub Actions maintained by its members.
 
 ## Actions
 
-> **Note** Some actions (:alien:) are maintained outside **Actions-able** and will migrate when possible.
+> **Note** Some actions (:alien:) are maintained outside **Actions-able** and [will migrate when possible][new-home].
 
 ### Data manipulation
 
@@ -21,3 +21,5 @@ It's an OSS organization focusing on GitHub Actions maintained by its members.
 ### Release management
 
 - <https://github.com/rlespinasse/release-that> :alien:
+
+[new-home]: https://github.com/orgs/actions-able/projects/1
