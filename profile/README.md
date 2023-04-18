@@ -4,22 +4,20 @@ It's an OSS organization focusing on GitHub Actions maintained by its members.
 
 ## Actions
 
-> **Note** Some actions (:alien:) are maintained outside **Actions-able** and [will migrate when possible][new-home].
+> **Note** Some actions (:alien:) are maintained outside **Actions-able** and [will migrate when possible](https://github.com/orgs/actions-able/projects/1).
 
 ### Data manipulation
 
-- <https://github.com/rlespinasse/github-slug-action> :alien:
-- <https://github.com/rlespinasse/slugify-value> :alien:
-- <https://github.com/rlespinasse/shortify-git-revision> :alien:
-- <https://github.com/rlespinasse/git-commit-data-action> :alien:
+- :alien: [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
+- :alien: [rlespinasse/slugify-value](https://github.com/rlespinasse/slugify-value)
+- :alien: [rlespinasse/shortify-git-revision](https://github.com/rlespinasse/shortify-git-revision)
+- :alien: [rlespinasse/git-commit-data-action](https://github.com/rlespinasse/git-commit-data-action)
 
 ### File manipulation
 
-- <https://github.com/actions-able/envsubst-action>
-- <https://github.com/rlespinasse/drawio-export-action> :alien:
+- [actions-able/envsubst-action](https://github.com/actions-able/envsubst-action)
+- :alien: [rlespinasse/drawio-export-action](https://github.com/rlespinasse/drawio-export-action)
 
 ### Release management
 
-- <https://github.com/rlespinasse/release-that> :alien:
-
-[new-home]: https://github.com/orgs/actions-able/projects/1
+- :alien: [rlespinasse/release-that](https://github.com/rlespinasse/release-that)
