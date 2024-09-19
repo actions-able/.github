@@ -4,7 +4,8 @@ It's an OSS organization focusing on GitHub Actions maintained by its members.
 
 ## Actions
 
-> **Note** Some actions (:alien:) are maintained outside **Actions-able**.
+> [!NOTE]
+> Some actions ( :alien: ) are maintained outside **Actions-able**.
 
 ### Data manipulation
 
