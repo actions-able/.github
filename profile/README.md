@@ -6,6 +6,7 @@ It's an OSS organization focusing on GitHub Actions maintained by its members.
 
 > [!NOTE]
 > Some actions ( :alien: ) are maintained outside **Actions-able**.
+> The actions are mainly created before the creation of this organization.
 
 ### Data manipulation
 
