@@ -2,6 +2,13 @@
 
 It's an OSS organization focusing on GitHub Actions maintained by its members.
 
+## Awesome Lists
+
+Since March 2025, the awesome list `sdras/awesome-actions` about GitHub Actions have been forked on this org [actions-able/awesome-actions](https://github.com/actions-able/awesome-actions).
+
+> [!NOTE]
+> The fork is maintained based on the contributions proposed to the upstream repository, read more on the [associated project](https://github.com/orgs/actions-able/projects/3).
+
 ## Actions
 
 > [!NOTE]
