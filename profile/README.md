@@ -10,6 +10,7 @@ The curated list [awesome-actions](https://github.com/actions-able/awesome-actio
 
 > [!NOTE]
 > The fork is maintained based on the contributions proposed to the upstream repository, read more on the [associated project](https://github.com/orgs/actions-able/projects/3).
+> A [pull request](https://github.com/sdras/awesome-actions/pull/669) has been opened to give back the improvements to the original repository.
 
 ## Actions
 
