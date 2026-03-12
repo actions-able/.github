@@ -1,32 +1,45 @@
-# Welcome to **Actions-able**
+# Welcome to Actions-able
 
-It's an OSS organization focusing on GitHub Actions maintained by its members.
+An open-source organization focused on **GitHub Actions**, maintained by its members.
+
+---
 
 ## Awesome Lists
 
-Since March 2025, the awesome list `sdras/awesome-actions` about GitHub Actions have been forked on this org [actions-able/awesome-actions](https://github.com/actions-able/awesome-actions).
+The curated list [awesome-actions](https://github.com/actions-able/awesome-actions) — originally created by [Sarah Drasner](https://github.com/sdras/awesome-actions) — has been maintained here since March 2025.
 
 > [!NOTE]
 > The fork is maintained based on the contributions proposed to the upstream repository, read more on the [associated project](https://github.com/orgs/actions-able/projects/3).
+> A [pull request](https://github.com/sdras/awesome-actions/pull/669) has been opened to give back the improvements to the original repository.
 
 ## Actions
 
-> [!NOTE]
-> Some actions ( :alien: ) are maintained outside **Actions-able**.
-> The actions are mainly created before the creation of this organization.
+Below is the list of GitHub Actions maintained by the organization and its members.
 
 ### Data manipulation
 
-- :alien: [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
-- :alien: [rlespinasse/slugify-value](https://github.com/rlespinasse/slugify-value)
-- :alien: [rlespinasse/shortify-git-revision](https://github.com/rlespinasse/shortify-git-revision)
-- :alien: [rlespinasse/git-commit-data-action](https://github.com/rlespinasse/git-commit-data-action)
+| Action | Description | Maintained by |
+| --- | --- | --- |
+| [github-slug-action](https://github.com/rlespinasse/github-slug-action) | Expose slug values of GitHub environment variables | [@rlespinasse](https://github.com/rlespinasse), [@Ameausoone](https://github.com/Ameausoone) |
+| [slugify-value](https://github.com/rlespinasse/slugify-value) | Slugify a value | [@rlespinasse](https://github.com/rlespinasse) |
+| [shortify-git-revision](https://github.com/rlespinasse/shortify-git-revision) | Shorten a git revision | [@rlespinasse](https://github.com/rlespinasse) |
+| [git-commit-data-action](https://github.com/rlespinasse/git-commit-data-action) | Expose git commit data | [@rlespinasse](https://github.com/rlespinasse) |
 
 ### File manipulation
 
-- [actions-able/envsubst-action](https://github.com/actions-able/envsubst-action)
-- :alien: [rlespinasse/drawio-export-action](https://github.com/rlespinasse/drawio-export-action)
+| Action | Description | Maintained by |
+| --- | --- | --- |
+| [envsubst-action](https://github.com/actions-able/envsubst-action) | Substitute environment variables in files using `envsubst` | Organization |
+| [drawio-export-action](https://github.com/rlespinasse/drawio-export-action) | Export draw.io diagrams | [@rlespinasse](https://github.com/rlespinasse) |
 
 ### Release management
 
-- :alien: [rlespinasse/release-that](https://github.com/rlespinasse/release-that)
+| Action | Description | Maintained by |
+| --- | --- | --- |
+| [release-that](https://github.com/rlespinasse/release-that) | Automate releases | [@rlespinasse](https://github.com/rlespinasse) |
+
+---
+
+## Contributing
+
+Contributions are welcome across all our repositories. Feel free to open issues and pull requests.
