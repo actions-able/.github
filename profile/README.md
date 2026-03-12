@@ -20,23 +20,23 @@ Below is the list of GitHub Actions maintained by the organization and its membe
 
 | Action | Description | Maintained by |
 | --- | --- | --- |
-| [github-slug-action](https://github.com/rlespinasse/github-slug-action) | Expose slug values of GitHub environment variables | Member |
-| [slugify-value](https://github.com/rlespinasse/slugify-value) | Slugify a value | Member |
-| [shortify-git-revision](https://github.com/rlespinasse/shortify-git-revision) | Shorten a git revision | Member |
-| [git-commit-data-action](https://github.com/rlespinasse/git-commit-data-action) | Expose git commit data | Member |
+| [github-slug-action](https://github.com/rlespinasse/github-slug-action) | Expose slug values of GitHub environment variables | [@rlespinasse](https://github.com/rlespinasse), [@Ameausoone](https://github.com/Ameausoone) |
+| [slugify-value](https://github.com/rlespinasse/slugify-value) | Slugify a value | [@rlespinasse](https://github.com/rlespinasse) |
+| [shortify-git-revision](https://github.com/rlespinasse/shortify-git-revision) | Shorten a git revision | [@rlespinasse](https://github.com/rlespinasse) |
+| [git-commit-data-action](https://github.com/rlespinasse/git-commit-data-action) | Expose git commit data | [@rlespinasse](https://github.com/rlespinasse) |
 
 ### File manipulation
 
 | Action | Description | Maintained by |
 | --- | --- | --- |
 | [envsubst-action](https://github.com/actions-able/envsubst-action) | Substitute environment variables in files using `envsubst` | Organization |
-| [drawio-export-action](https://github.com/rlespinasse/drawio-export-action) | Export draw.io diagrams | Member |
+| [drawio-export-action](https://github.com/rlespinasse/drawio-export-action) | Export draw.io diagrams | [@rlespinasse](https://github.com/rlespinasse) |
 
 ### Release management
 
 | Action | Description | Maintained by |
 | --- | --- | --- |
-| [release-that](https://github.com/rlespinasse/release-that) | Automate releases | Member |
+| [release-that](https://github.com/rlespinasse/release-that) | Automate releases | [@rlespinasse](https://github.com/rlespinasse) |
 
 ---
 
